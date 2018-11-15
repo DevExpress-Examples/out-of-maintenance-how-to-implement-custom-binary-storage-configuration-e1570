@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BinaryStorageStrategies.cs](./CS/App_Code/BinaryStorageStrategies.cs) (VB: [BinaryStorageStrategies.vb](./VB/App_Code/BinaryStorageStrategies.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Global.asax](./CS/Global.asax)
+<!-- default file list end -->
 # How to implement custom binary storage configuration
 
 
